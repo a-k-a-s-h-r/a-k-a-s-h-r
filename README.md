@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @a-k-a-s-h-r
 - 👀 I’m interested in web applications
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front end system design.
 - 📫 reach me @ rakashr1997@G /+1-8199901486
 
 <!---
